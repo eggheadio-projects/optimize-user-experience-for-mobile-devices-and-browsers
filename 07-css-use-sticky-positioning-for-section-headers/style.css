@@ -1,0 +1,14 @@
+dl {
+  font-size: 30px;
+}
+
+dt {
+  background-color: mediumseagreen;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+dd {
+  padding: 20px 0;
+}
