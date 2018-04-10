@@ -1,0 +1,35 @@
+header {
+  position: fixed;
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  padding-top: 80px;
+}
+
+#menu-icon {
+  font-size: 30px;
+}
+
+nav {
+  display: none;
+  position: fixed;
+  top: 80px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  background-color: dodgerblue;
+}
+
+li {
+  padding: 20px;
+}
